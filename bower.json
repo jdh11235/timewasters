@@ -1,0 +1,17 @@
+{
+  "name": "timewasters",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jdh11235/timewasters",
+  "authors": [
+    "Jonathan Herman <jdh11235@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
